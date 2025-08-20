@@ -51,11 +51,25 @@ Jira, Confluence, Postman, SOAP UI, PuTTY, WinSCP, ServiceNow
 
 
 ---
+## 📌 Featured Projects  
 
-## 🌟 Featured Projects
-- 🔗 [Miro User Onboarding Automation] 
-- 🔗 [Jira Project Creation Automation]
-- 🔗 [WebLogic Domain Scaling Demo] 
+- [Miro User Onboarding Automation](https://github.com/jyothi-k19/miro-onboarding)  
+   Automates onboarding by integrating **Miro, Azure AD, and Jira**, reducing manual work.  
+
+- [Jira Project Creation Automation](https://github.com/jyothi-k19/jira-project-automation)  
+   Automates **Jira project setup, role assignment, and notifications** using Python.  
+
+- [WebLogic Domain Scaling Demo](https://github.com/jyothi-k19/weblogic-scaling-demo)  
+   Demonstrates **scaling of WebLogic domains from 6 → 12 servers** using automation scripts.  
+
+- [Kubernetes Deployment Sample](https://github.com/jyothi-k19/k8s-deployment-sample)  
+   Sample deployment of a containerized app on **Kubernetes with Helm**.  
+
+- [Infrastructure Automation with Puppet/Ansible](https://github.com/jyothi-k19/infra-automation)  
+   Scripts for provisioning and configuration management with **Puppet and Ansible**.  
+
+- [Grafana Monitoring Dashboard Setup](https://github.com/jyothi-k19/monitoring-dashboards)  
+   Preconfigured **Grafana dashboards with Prometheus/Datadog** for system monitoring.  
 ---
 
 ## 🏆 Achievements
@@ -66,3 +80,9 @@ Jira, Confluence, Postman, SOAP UI, PuTTY, WinSCP, ServiceNow
 ## 📫 Let’s Connect
 - [LinkedIn](https://www.linkedin.com/in/jyothi-kadali/)  
 - 📧ksn.jyothi1905@gmail.com
+
+## 📊 GitHub Stats  
+
+![Jyothi's GitHub stats](https://github-readme-stats.vercel.app/api?username=jyothi-k19&show_icons=true&theme=default)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jyothi-k19&layout=compact&theme=default)  
