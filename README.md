@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jyothi Kadali  
+# 👋 Hi, I'm Satya Naga Jyothi Kadali  
 
 🔹 Senior Software Engineer | DevOps | SRE | Middleware | Performance Engineering  
 
